@@ -6,7 +6,7 @@
 
 ## 📖 The Vision
 
-Generic Large Language Models (LLMs) are powerful, but they often fail students in rural or under-resourced areas. These students require strict alignment with local curriculums, culturally relatable examples, and step-by-step pedagogical patience.
+Large Language Models (LLMs) are powerful, but they often fail students in rural or under-resourced areas. These students require strict alignment with local curriculums, culturally relatable examples, and step-by-step pedagogical patience.
 
 **EduBridge** is not just a wrapper around an API. It is a sophisticated, localized, multi-agent reasoning system designed to bridge the educational gap. By simulating a team of specialized educators, EduBridge ensures that every answer is factually accurate, curriculum-aligned, and culturally nuanced.
 
